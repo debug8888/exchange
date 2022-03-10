@@ -2,7 +2,10 @@
 USDT兑换虚拟卡比如移动充值卡，油卡等
 # 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
 # 需要的联系飞机账号 @tt88pay 请备注是github看到的
+# 项目可以在后台控制是否给会员进行自动提取卡号和卡密，可真可假
 # 项目展示截图
+
+![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=cdbbb159d6f0941783400c2f4f1a920a)
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=bff5ad6b5d68fd619ac8097c4b970a3c)
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=4165c8f973b2763a8246ceced8d71733)
